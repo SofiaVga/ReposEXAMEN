@@ -1,0 +1,2 @@
+320105294
+En este proyecto inicial, fue fundamental aplicar los conocimientos de todas las clases presenciales que hemos tenido, sin embargo tome mucho en cuenta que también tengo que tener una comprensión lectora bastante buena, ya que si no logro entender las indicaciones básicas no podré generar lo que se me pide, es de gran importancia destacar que usar una terminal para unir 2 archivos es bastante práctico, y no es muy elaborado, me quedo contenta con este mi primer proyecto de programación.

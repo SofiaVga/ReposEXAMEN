@@ -1,0 +1,2 @@
+320209086
+En este proyecto comprendí el porqué de cómo es que el dispositivo analiza los pixeles de las pantallas para así poder enviar aquella ventana, aprendí a realizar este programa y me sorprendió lo fácil que es, así como también observar su pequeña complejidad
